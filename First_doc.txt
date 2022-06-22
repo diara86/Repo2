@@ -7,5 +7,7 @@ public class TestClass {
 
 
   System.out.println("Add first line");
+  System.out.println("Add second line");
+  System.out.println("Add third line");
     }
 }
